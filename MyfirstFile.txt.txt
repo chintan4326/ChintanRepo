@@ -1,3 +1,4 @@
 Change by developer-2
 Change by developer-1
 Change made to understand Git
+Modified in master branch
